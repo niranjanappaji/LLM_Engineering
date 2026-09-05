@@ -76,7 +76,7 @@ Rather than only following tutorials, I want to experiment with different models
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 The technologies will evolve as the projects grow, but some of the tools I am currently exploring include:
 
