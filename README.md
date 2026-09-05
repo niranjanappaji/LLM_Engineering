@@ -4,7 +4,7 @@ A hands-on journey into **Large Language Models and Generative AI**, where I lea
 
 I created this repository to move beyond the theoretical understanding of LLMs and explore how they work in real-world applications through a series of practical projects.
 
-## 🎯 What I'm Exploring
+## What I'm Exploring
 
 Through these projects, I aim to build a practical understanding of:
 
@@ -26,7 +26,7 @@ The goal is not just to **use LLMs**, but to understand the concepts behind them
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 1. Web Summarizer
 
@@ -56,7 +56,7 @@ For this project, I experimented with different approaches:
 
 The project helped me understand concepts such as **tokenization, context windows, prompting, inference, model limitations, and the trade-offs between cloud and local models**.
 
-📂 [`2_LLM_Web_Summarizer.ipynb`](./2_LLM_Web_Summarizer.ipynb)
+[`2_LLM_Web_Summarizer.ipynb`](./2_LLM_Web_Summarizer.ipynb)
 
 ---
 
@@ -66,7 +66,7 @@ More projects will be added as I continue exploring different areas of LLM engin
 
 ---
 
-## 🧠 Learning Approach
+## Learning Approach
 
 For each project, I try to follow a simple approach:
 
@@ -92,7 +92,7 @@ The technologies will evolve as the projects grow, but some of the tools I am cu
 
 ---
 
-## 📌 Why This Repository?
+## Why This Repository?
 
 LLMs are evolving rapidly, and there is a lot to learn.
 
