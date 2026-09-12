@@ -107,7 +107,8 @@ Markdown
 
 **Project: Company Brochure Generator**
 
-[`3. LLM Engg Company Brochure Generator.ipynb`](./3. LLM Engg Company Brochure Generator.ipynb)
+[`3. LLM Engg Company Brochure Generator.ipynb`](./3_LLM_Engg_Company_Brochure_Generator.ipynb)
+
 
 More projects will be added as I continue exploring different areas of LLM engineering.
 
