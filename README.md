@@ -60,7 +60,52 @@ The project helped me understand concepts such as **tokenization, context window
 
 ---
 
-### 2. Coming Soon...
+### 2. Company Brochure Generator
+
+An LLM-powered application that automatically researches a company's website and generates a concise company brochure.
+
+The application combines web scraping, HTML parsing, LLM-based link selection, prompt engineering, and streamed LLM generation.
+
+**Pipeline:**
+
+Company Website
+       ↓
+Fetch Landing Page
+       ↓
+Extract Text + Links
+       ↓
+LLM Selects Relevant Pages
+       ↓
+Fetch Relevant Pages
+       ↓
+Combine Website Content
+       ↓
+LLM Generates Brochure
+       ↓
+Markdown Output
+
+**Key concepts explored**
+
+Web scraping with Requests
+HTML parsing with BeautifulSoup
+Content extraction and cleaning
+LLM-based information selection
+Structured JSON output from LLMs
+Prompt engineering
+Context management
+API-based LLM applications
+Streaming LLM responses
+Production-oriented code documentation
+Error handling and resilient processing
+Technology Stack
+Python
+OpenAI API
+Requests
+BeautifulSoup
+Google Colab
+Markdown
+
+**Project: Company Brochure Generator**
 
 More projects will be added as I continue exploring different areas of LLM engineering.
 
