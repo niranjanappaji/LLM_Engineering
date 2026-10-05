@@ -109,6 +109,25 @@ Markdown
 
 [`3. LLM Engg Company Brochure Generator.ipynb`](./3_LLM_Engg_Company_Brochure_Generator.ipynb)
 
+### 3. Company Brochure Generator - Introduction to Chatbot
+
+AI Company Brochure Generator with Streaming UI & Chatbot
+
+Building upon the core static brochure generator, this project transitions into a full interactive web application using Gradio, featuring real-time token streaming, an enhanced autonomous multi-page scraping workflow, and professional software design patterns (type hints, modular functions, and robust docstrings).
+
+User Input (Company Name & URL)
+       ↓
+Fetch Landing Page & Extract Links
+       ↓
+LLM JSON Mode: Intelligent Link Router
+       ↓
+Deep-Scrape Relevant Sub-Pages (About, Products, etc.)
+       ↓
+Aggregate Multi-Page Context Corpus
+       ↓
+Gradio UI + Real-Time Token Streaming Generation
+
+[`4_LLM_Engg_Brochure_Generator_using_chatbot.ipynb`](./4_LLM_Engg_Brochure_Generator_using_chatbot.ipynb)
 
 More projects will be added as I continue exploring different areas of LLM engineering.
 
